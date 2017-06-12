@@ -1,4 +1,5 @@
 
+
 /*Hadn't done this in a while*/
 /*This is a css for the hardware website.*/
 
@@ -14,7 +15,6 @@ h2
 {
 	font-family: "Century Gothic", "Verdana",Arial, sans-serif,fantasy;
 	color: white;
-	font-weight: 570;
 	font-size: 38pt;
 	text-align: right;
 	font-style: normal;
@@ -52,11 +52,7 @@ margin:auto;
 }
 
 
-.bad
-}
-	background-color:rgba(80, 255, 255, 0.5);
-	
-}
+
 .photo
 {
 
